@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🚀 Raol Mukarrozi Portfolio
+# 🚀 Kemii Lerang Portfolio
 
 _A modern, minimalist portfolio website built with Next.js, showcasing my journey as a self-taught Full-Stack Developer from Indonesia._
 
-<img src="https://raw.githubusercontent.com/YoruAkio/ProjectAssets/refs/heads/main/akio/akio/og-image.png" alt="Portfolio Preview" width="500">
+<img src="https://raw.githubusercontent.com/Jamaludin88p/Leona/main/uploads/1757162397627.jpeg" alt="Portfolio Preview" width="500">
 
 </div>
 
