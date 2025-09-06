@@ -4,7 +4,7 @@ export default function SEO({
   title = 'Kemii Lerang - Full-Stack Developer',
   description = 'Self-taught Full-Stack Developer from Indonesia showcasing web development projects. Specializing in front-end solutions and back-end development with JavaScript and modern web technologies.',
   url = 'https://chat.whatsapp.com/J1yuc7DVgb42TlXAOzpdSi',
-  image = 'https://raw.githubusercontent.com/Jamaludin88p/Leona/main/uploads/1757160874743.jpeg',
+  image = 'https://raw.githubusercontent.com/Jamaludin88p/Leona/main/uploads/1757162397627.jpeg',
 }) {
   const siteTitle =
     title === 'Kemii Lerang - Full-Stack Developer'
