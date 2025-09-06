@@ -30,8 +30,8 @@ export default function Navbar() {
         <div className="flex justify-between items-center h-16">
           <div className="flex-shrink-0 relative w-14 h-10 rounded-full overflow-hidden ring-2 ring-primary/20 hover:ring-primary/40 transition-all duration-300">
             <Image
-              src="https://raw.githubusercontent.com/YoruAkio/ProjectAssets/refs/heads/main/akio/akio/yoruakio.png"
-              alt="Raol Mukarrozi"
+              src="https://raw.githubusercontent.com/Jamaludin88p/Leona/main/uploads/1757161356670.png"
+              alt="Kemii Lerang"
               fill
               sizes="40px"
               className="object-contain"
