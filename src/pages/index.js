@@ -56,7 +56,7 @@ export default function Home() {
             </div>
             
             <h1 className="text-3xl sm:text-5xl lg:text-6xl font-bold text-foreground mb-6 leading-tight">
-              Hi, I'm <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-secondary animate-pulse">Raol Mukarrozi</span>
+              Hi, I'm <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-secondary animate-pulse">Kemii Lerang</span>
             </h1>
             
             <p className="text-lg sm:text-xl lg:text-2xl text-foreground/70 mb-12 max-w-4xl mx-auto leading-relaxed">
