@@ -1,15 +1,15 @@
 import Head from 'next/head';
 
 export default function SEO({
-  title = 'Raol Mukarrozi - Full-Stack Developer',
+  title = 'Kemii Lerang - Full-Stack Developer',
   description = 'Self-taught Full-Stack Developer from Indonesia showcasing web development projects. Specializing in front-end solutions and back-end development with JavaScript and modern web technologies.',
-  url = 'https://akio.lol',
-  image = 'https://raw.githubusercontent.com/YoruAkio/ProjectAssets/refs/heads/main/akio/akio/og-image.png',
+  url = 'https://chat.whatsapp.com/J1yuc7DVgb42TlXAOzpdSi',
+  image = 'https://raw.githubusercontent.com/Jamaludin88p/Leona/main/uploads/1757160874743.jpeg',
 }) {
   const siteTitle =
-    title === 'Raol Mukarrozi - Full-Stack Developer'
+    title === 'Kemii Lerang - Full-Stack Developer'
       ? title
-      : `${title} - Raol Mukarrozi`;
+      : `${title} - Kemii Lerang`;
 
   return (
     <Head>
@@ -52,15 +52,15 @@ export default function SEO({
           __html: JSON.stringify({
             '@context': 'https://schema.org',
             '@type': 'Person',
-            name: 'Raol Mukarrozi',
+            name: 'Kemii Lerang',
             jobTitle: 'Full-Stack Developer',
             description: description,
             url: url,
             image: image,
             sameAs: [
-              'https://github.com/raolbyte',
-              'https://twitter.com/yoruakio',
-              'https://t.me/ethermite',
+              'https://github.com/Jamaludin88p',
+              'https://twitter.com/hannahxdmd',
+              'https://t.me/kemii',
             ],
             address: {
               '@type': 'PostalAddress',
