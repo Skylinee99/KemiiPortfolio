@@ -6,11 +6,11 @@ export default function Document() {
       <Head>
         <link
           rel="icon"
-          href="https://raw.githubusercontent.com/YoruAkio/ProjectAssets/refs/heads/main/akio/akio/yoruakio.png"
+          href="https://raw.githubusercontent.com/Jamaludin88p/Leona/main/uploads/1757161356670.png"
         />
         <link
           rel="apple-touch-icon"
-          href="https://raw.githubusercontent.com/YoruAkio/ProjectAssets/refs/heads/main/akio/akio/yoruakio.png"
+          href="https://raw.githubusercontent.com/Jamaludin88p/Leona/main/uploads/1757161356670.png"
         />
       </Head>
       <body className="antialiased">
