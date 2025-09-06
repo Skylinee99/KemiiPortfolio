@@ -4,7 +4,7 @@ export default function SEO({
   title = 'Kemii Lerang - Full-Stack Developer',
   description = 'Self-taught Full-Stack Developer from Indonesia showcasing web development projects. Specializing in front-end solutions and back-end development with JavaScript and modern web technologies.',
   url = 'https://chat.whatsapp.com/J1yuc7DVgb42TlXAOzpdSi',
-  image = 'https://raw.githubusercontent.com/Jamaludin88p/Leona/main/uploads/1757162397627.jpeg',
+  image = 'https://raw.githubusercontent.com/Jamaludin88p/Leona/main/uploads/1757160874743.jpeg',
 }) {
   const siteTitle =
     title === 'Kemii Lerang - Full-Stack Developer'
@@ -19,10 +19,10 @@ export default function SEO({
       <meta name="description" content={description} />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <meta name="robots" content="index, follow" />
-      <meta name="author" content="Raol Mukarrozi" />
+      <meta name="author" content="Kemii Lerang" />
       <meta
         name="keywords"
-        content="Full-Stack Developer, Web Developer, JavaScript, TypeScript, Python, Frontend, Backend, Indonesia, Portfolio, Raol Mukarrozi"
+        content="Full-Stack Developer, Web Developer, JavaScript, TypeScript, Python, Frontend, Backend, Indonesia, Portfolio, Kemii Lerang"
       />
 
       {/* Open Graph / Facebook */}
@@ -33,7 +33,7 @@ export default function SEO({
       <meta property="og:image" content={image} />
       <meta property="og:image:width" content="1200" />
       <meta property="og:image:height" content="630" />
-      <meta property="og:site_name" content="Raol Mukarrozi Portfolio" />
+      <meta property="og:site_name" content="Kemii Lerang Portfolio" />
 
       {/* Twitter */}
       <meta property="twitter:card" content="summary_large_image" />
