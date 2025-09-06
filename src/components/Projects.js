@@ -51,11 +51,11 @@ export default function Projects() {
         setError(err.message);
         setProjects([
           {
-            name: 'AkioPortfolio',
+            name: 'KemiiPortfolio',
             description:
               'Modern minimalist portfolio website built with Next.js and Tailwind CSS',
-            url: 'https://github.com/raolbyte/AkioPortfolio',
-            homepageUrl: 'https://yoruakio.vercel.app',
+            url: 'https://github.com/Skylinee99/KemiiPortfolio',
+            homepageUrl: 'https://kemii-portfolio.vercel.app',
             stargazerCount: 5,
             forkCount: 2,
             primaryLanguage: { name: 'JavaScript' },
