@@ -12,7 +12,7 @@ export default function FooterInfo() {
   const messages = [
     {
       type: 'copyright',
-      text: '© 2025 Raol Mukarrozi',
+      text: '© 2025 Kemii Lerang',
     },
     {
       type: 'built-with',
