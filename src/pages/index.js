@@ -36,7 +36,7 @@ export default function Home() {
   return (
     <>
       <SEO
-        title="Raol Mukarrozi - Full-Stack Developer"
+        title="Kemii Lerang - Full-Stack Developer"
         description="Self-taught Full-Stack Developer from Indonesia showcasing web development projects. Specializing in front-end solutions and back-end development with JavaScript and modern web technologies."
       />
       <div className="min-h-screen bg-background">
